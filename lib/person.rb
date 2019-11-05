@@ -1,5 +1,4 @@
 class Person
-  attr_accessible :name
 
 
   def initialize(attributes)
